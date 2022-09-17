@@ -9,3 +9,4 @@ if (__name__=='__main__'):
                 stdout.flush()
                 sleep(0.1)
             sleep(0.7)
+        print(end="\n")
